@@ -19,12 +19,12 @@ export function Comment({ content, onDeleteComment }) {
     
     return (
         <div className={styles.comment}>
-             <Avatar hasBorder={false} src={"https://github.com/ricardogorki.png"}/>
+             <Avatar hasBorder={false} src={"https://github.com/sxpphickat.png"}/>
              <div className={styles.commentBox}>
                 <div className={styles.commentContent}>
                     <header>
                         <div className={styles.authorAndTime}>
-                            <strong>Ricardo Gorki</strong>
+                            <strong>Bito O_o</strong>
                             <time title="27 de Setembro às 12:34" dateTime="2023-09-27 12:34:00">Cerca de 1h atrás</time>
                         </div>
                         <button
